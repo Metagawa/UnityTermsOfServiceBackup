@@ -1,3 +1,7 @@
+# Let's hold Unity accountable this time shall we?
+====================================================================
+
+====================================================================
 # UNITY EDITOR SOFTWARE ADDITIONAL TERMS
 
 We are republishing this GitHub repository, where you can find all current and prior versions of our Unity Editor Software Additional Terms (previously titled ‘Unity Software Additional Terms’) from June 28, 2016. 
